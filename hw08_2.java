@@ -4,7 +4,7 @@ class Cbbb
  double y;
 }
 
-public class eel
+public class hw08_2
 {
  public static void main(String args[])
  {
