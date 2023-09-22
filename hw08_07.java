@@ -13,7 +13,7 @@ class CTest
   
  }
 }
- public class hw08_7
+ public class hw08_07
  {
  public static void main(String args[])
  {
