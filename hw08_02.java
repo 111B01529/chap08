@@ -4,7 +4,7 @@ class Cbbb
  double y;
 }
 
-public class hw08_2
+public class hw08_02
 {
  public static void main(String args[])
  {
