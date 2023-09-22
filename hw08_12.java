@@ -37,7 +37,7 @@ class CWin
      System.out.println("W="+width+", H="+height);
   }
 }
-   public class hw08_9
+   public class hw08_12
 {
       public static void main (String args[])
       {
