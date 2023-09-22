@@ -27,7 +27,7 @@ class Cbox
 }
 
 
-public class hw08_5
+public class hw08_05
 {
 
  public static void main(String args[])
