@@ -31,7 +31,7 @@ class CSphere
 }
  
  
-  public class hw08_12
+  public class hw08_16
   {
    public static void main(String args[])
    {
